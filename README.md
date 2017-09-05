@@ -21,9 +21,12 @@ Despite the complexity we saw in books about compiler design, writing one is
 not that HARD. You don't need that much theory though they will help for
 better understanding the logic behind the code.
 
-Also I write a [series of
-article](http://lotabout.github.io/2015/%E5%86%99%E4%B8%AA-C-%E7%BC%96%E8%AF%91%E5%99%A8-1/)
-about how this compiler is built(in Chinese though).
+# Resources
+
+Further Reading:
+
+- [Let's Build a Compiler](http://compilers.iecc.com/crenshaw/): An excellent
+    starting material for building compiler.
 
 # Licence
 
